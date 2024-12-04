@@ -1,0 +1,137 @@
+2024-12-04 12:41:15,447 - INFO -
+2024-12-04 12:41:19,750 - INFO -Starting api
+2024-12-04 12:41:52,554 - INFO -Starting api
+2024-12-04 12:42:12,829 - INFO -Starting api
+2024-12-04 12:42:20,455 - INFO -Starting api
+2024-12-04 12:42:25,386 - INFO -Starting api
+2024-12-04 12:42:46,045 - INFO -Request to index page
+2024-12-04 12:42:53,053 - INFO -Request to videos page
+2024-12-04 12:46:09,688 - INFO -Starting api
+2024-12-04 12:46:10,876 - INFO -Starting api
+2024-12-04 12:46:13,242 - INFO -Starting api
+2024-12-04 12:46:17,860 - INFO -Starting api
+2024-12-04 12:46:26,685 - INFO -Starting api
+2024-12-04 12:47:31,285 - INFO -Starting api
+2024-12-04 12:47:37,418 - INFO -Starting api
+2024-12-04 12:47:40,549 - INFO -Starting api
+2024-12-04 12:47:44,592 - INFO -Starting api
+2024-12-04 12:47:48,922 - INFO -Starting api
+2024-12-04 12:47:57,763 - INFO -Starting api
+2024-12-04 12:47:59,692 - INFO -Starting api
+2024-12-04 12:48:00,734 - INFO -Starting api
+2024-12-04 12:48:08,091 - INFO -Starting api
+2024-12-04 12:48:11,235 - INFO -Starting api
+2024-12-04 12:48:13,458 - INFO -Starting api
+2024-12-04 12:48:16,607 - INFO -Starting api
+2024-12-04 12:48:19,788 - INFO -Starting api
+2024-12-04 12:48:23,216 - INFO -Starting api
+2024-12-04 12:48:25,418 - INFO -Starting api
+2024-12-04 12:48:28,538 - INFO -Starting api
+2024-12-04 12:48:32,853 - INFO -Starting api
+2024-12-04 12:49:31,461 - INFO -Starting api
+2024-12-04 12:49:33,414 - INFO -Starting api
+2024-12-04 12:49:47,593 - INFO -{'url': '/upload-videos', 'method': 'GET'}
+2024-12-04 12:49:49,848 - INFO -{'url': '/', 'method': 'GET'}
+2024-12-04 14:05:31,555 - INFO -{'url': '/upload-videos', 'method': 'GET'}
+2024-12-04 14:08:47,681 - INFO -Starting api
+2024-12-04 14:08:49,895 - INFO -Starting api
+2024-12-04 14:08:55,117 - INFO -Starting api
+2024-12-04 14:08:59,732 - INFO -Starting api
+2024-12-04 14:09:17,304 - INFO -Starting api
+2024-12-04 14:09:20,733 - INFO -Starting api
+2024-12-04 14:11:16,142 - INFO -Starting api
+2024-12-04 14:11:43,360 - INFO -Starting api
+2024-12-04 14:11:52,787 - INFO -{'url': '/upload-videos', 'method': 'GET'}
+2024-12-04 14:13:25,592 - INFO -Starting api
+2024-12-04 14:13:29,584 - INFO -Starting api
+2024-12-04 14:13:30,928 - INFO -Starting api
+2024-12-04 14:13:33,201 - INFO -{'url': '/upload-videos', 'method': 'GET'}
+2024-12-04 14:13:33,663 - INFO -{'url': '/upload-videos', 'method': 'GET'}
+2024-12-04 14:14:11,579 - INFO -Starting api
+2024-12-04 14:14:15,324 - INFO -Starting api
+2024-12-04 14:14:17,862 - INFO -Starting api
+2024-12-04 14:14:28,398 - INFO -Starting api
+2024-12-04 14:14:30,594 - INFO -Starting api
+2024-12-04 14:14:34,874 - INFO -Starting api
+2024-12-04 14:14:37,077 - INFO -Starting api
+2024-12-04 14:14:51,024 - INFO -Starting api
+2024-12-04 14:14:54,128 - INFO -Starting api
+2024-12-04 14:15:08,087 - INFO -Starting api
+2024-12-04 14:15:11,223 - INFO -Starting api
+2024-12-04 14:15:12,875 - INFO -Starting api
+2024-12-04 14:15:27,721 - INFO -Starting api
+2024-12-04 14:15:32,000 - INFO -Starting api
+2024-12-04 14:15:34,213 - INFO -Starting api
+2024-12-04 14:15:35,829 - INFO -Starting api
+2024-12-04 14:15:38,895 - INFO -Starting api
+2024-12-04 14:15:42,916 - INFO -Starting api
+2024-12-04 14:15:46,929 - INFO -Starting api
+2024-12-04 14:16:07,333 - INFO -Starting api
+2024-12-04 14:16:17,042 - INFO -Starting api
+2024-12-04 14:16:18,971 - INFO -Starting api
+2024-12-04 14:16:22,443 - INFO -{'url': '/upload-videos', 'method': 'GET', 'process_time': 0.0007340908050537109}
+2024-12-04 14:16:49,954 - INFO -Starting api
+2024-12-04 14:16:53,362 - INFO -Starting api
+2024-12-04 14:17:03,100 - INFO -Starting api
+2024-12-04 14:17:05,621 - INFO -Starting api
+2024-12-04 14:17:09,504 - INFO -{'url': '/upload-videos', 'method': 'GET', 'process_time': 1.5018506050109863}
+2024-12-04 14:34:43,152 - INFO -{'url': '/upload-videos', 'method': 'GET', 'process_time': 1.5009136199951172}
+2024-12-04 14:53:11,766 - INFO -{'url': '/docs', 'method': 'GET', 'process_time': 0.0004951953887939453}
+2024-12-04 14:53:12,339 - INFO -{'url': '/openapi.json', 'method': 'GET', 'process_time': 0.0013344287872314453}
+2024-12-04 14:53:15,970 - INFO -{'url': '/', 'method': 'GET', 'process_time': 0.0005230903625488281}
+2024-12-04 14:53:29,284 - INFO -{'url': '/upload-videos', 'method': 'GET', 'process_time': 1.5013935565948486}
+2024-12-04 14:54:10,494 - INFO -Starting api
+2024-12-04 14:54:12,410 - INFO -Starting api
+2024-12-04 14:54:13,710 - INFO -Starting api
+2024-12-04 14:54:23,699 - INFO -Starting api
+2024-12-04 14:54:29,813 - INFO -Starting api
+2024-12-04 14:54:38,308 - INFO -Starting api
+2024-12-04 14:54:46,752 - INFO -{'url': '/upload-videos', 'method': 'GET', 'process_time': 1.5011646747589111}
+2024-12-04 14:55:09,749 - INFO -Starting api
+2024-12-04 15:00:04,990 - INFO -Starting api
+2024-12-04 15:00:15,220 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.501091480255127}
+2024-12-04 15:03:11,736 - INFO -Starting api
+2024-12-04 15:03:13,343 - INFO -Starting api
+2024-12-04 15:03:19,434 - INFO -Starting api
+2024-12-04 15:03:24,359 - INFO -Starting api
+2024-12-04 15:03:32,038 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.501227617263794}
+2024-12-04 15:03:42,804 - INFO -Starting api
+2024-12-04 15:03:48,898 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5025646686553955}
+2024-12-04 15:04:27,669 - INFO -Starting api
+2024-12-04 15:04:38,007 - INFO -Starting api
+2024-12-04 15:04:51,351 - INFO -Starting api
+2024-12-04 15:04:52,967 - INFO -Starting api
+2024-12-04 15:04:57,778 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5013399124145508}
+2024-12-04 15:05:46,260 - INFO -Starting api
+2024-12-04 15:05:47,885 - INFO -Starting api
+2024-12-04 15:05:55,509 - INFO -Starting api
+2024-12-04 16:08:25,113 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0007150173187255859}
+2024-12-04 16:08:29,334 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004780292510986328}
+2024-12-04 16:08:29,812 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5021116733551025}
+2024-12-04 16:08:31,322 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5016896724700928}
+2024-12-04 16:08:48,670 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0003807544708251953}
+2024-12-04 16:08:49,269 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0003612041473388672}
+2024-12-04 16:08:49,519 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004742145538330078}
+2024-12-04 16:08:55,166 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004963874816894531}
+2024-12-04 16:08:55,415 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004897117614746094}
+2024-12-04 16:08:55,589 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.00035572052001953125}
+2024-12-04 16:08:55,758 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004940032958984375}
+2024-12-04 16:08:55,910 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004086494445800781}
+2024-12-04 16:08:56,070 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004591941833496094}
+2024-12-04 16:09:25,819 - INFO -Starting api
+2024-12-04 16:09:30,618 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0007085800170898438}
+2024-12-04 16:12:11,540 - INFO -Starting api
+2024-12-04 16:12:14,353 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0004870891571044922}
+2024-12-04 16:12:29,448 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0006189346313476562}
+2024-12-04 16:12:32,639 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0005273818969726562}
+2024-12-04 16:12:33,011 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5019221305847168}
+2024-12-04 16:12:37,563 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5008344650268555}
+2024-12-04 16:12:39,068 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5021533966064453}
+2024-12-04 16:12:39,270 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0005395412445068359}
+2024-12-04 16:12:39,870 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0005090236663818359}
+2024-12-04 16:12:42,179 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5011661052703857}
+2024-12-04 16:12:43,662 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0005102157592773438}
+2024-12-04 16:12:47,090 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5011677742004395}
+2024-12-04 16:13:21,659 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0005133152008056641}
+2024-12-04 16:13:25,366 - INFO -{'url': '/upload-videos', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 1.5011639595031738}
+2024-12-04 16:17:05,851 - INFO -{'url': '/', 'method': 'GET', 'client_ip': '127.0.0.1', 'process_time': 0.0005288124084472656}
